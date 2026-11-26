@@ -1,5 +1,5 @@
 # Meetup_2
-## R with Pharma Lab Meetup #1  
+## R with Pharma Lab Meetup #2 
 2027-04 で調整中　
 ### Web Site
 https://sites.google.com/view/r-with-pharma-lab/%E3%83%9B%E3%83%BC%E3%83%A0
